@@ -1,10 +1,10 @@
-# Annealing-Based Model-Free Expectation Maximization Algorithm (ABMFEM)
+# Annealing-Based Model-Free Expectation Maximization Algorithm (ABMFEM) MATLAB Package
 
  This code provides an example run of the anneling-based model-free expectation maximization algorithm provided by the
  abmfem package. 
  
-Annealing-Based Model-Free Expectation Maximization Algorithm can be estimate the number of clusters and assigned samples to this clusters without any pre-knowledge.
- 
+Annealing-Based Model-Free Expectation Maximization Algorithm can be estimate the number of clusters and assigned samples to this clusters without any pre-knowledge. 
+
 ## Usage
 ----
 ```
@@ -58,3 +58,9 @@ Basak Esin KOKTURK GUZEL
  Köktürk, Başak Esin, and Bilge Karaçalı. "Annealing-based model-free expectation maximisation for
  multi-colour flow cytometry data clustering." International Journal of Data Mining and Bioinformatics 14,
  no. 1 (2016): 86-99.
+ 
+ The abmfem package is free software; you can redistribute it and/or  modify it under the terms of the GNU General Public License as 
+ published by the Free Software Foundation; either version 3 of the License, or any later version. 
+ 
+The software package is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even 
+the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
