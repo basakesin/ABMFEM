@@ -60,6 +60,7 @@ Basak Esin KOKTURK GUZEL
  no. 1 (2016): 86-99.
  
  ## License
+ ----
  The abmfem package is free software; you can redistribute it and/or  modify it under the terms of the GNU General Public License as 
  published by the Free Software Foundation; either version 3 of the License, or any later version. 
  
