@@ -1,9 +1,9 @@
 # Annealing-Based Model-Free Expectation Maximization Algorithm (ABMFEM)
 
- this code provides an example run of the anneling-based model-free expectation maximization algorithm provided by the
+ This code provides an example run of the anneling-based model-free expectation maximization algorithm provided by the
  abmfem package. 
  
- It can be estimate the number of clusters and assigned samples to this clusters without any pre-knowledge.
+Annealing-Based Model-Free Expectation Maximization Algorithm can be estimate the number of clusters and assigned samples to this clusters without any pre-knowledge.
  
 ## Usage
 ----
@@ -29,7 +29,6 @@ X=[X0; X1; X2];
 Y=[zeros(1000,1); ones(1000,1); 2*ones(1000,1)];
 
 [data, labels, clusters] = divideData(X);
-
 
 figure(2)
 gscatter(data(:,1),data(:,2),labels)
