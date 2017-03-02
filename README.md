@@ -7,7 +7,7 @@ Annealing-Based Model-Free Expectation Maximization Algorithm can be estimate th
 
 ## Usage
 ----
-```
+```octave
 X0 = randn(1000,2);
 X1 = [randn(1000,2)+repmat([0 4],1000,1)];
 X2 = [randn(1000,2)+repmat([4 4],1000,1)]
